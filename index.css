@@ -1,0 +1,13 @@
+#picture {
+  border-radius: 200px;
+  width: 200px;
+  height: 200px;
+}
+
+div {
+  padding-bottom: 10px;
+}
+
+body {
+  font-family: "Courier New", Courier, monospace;
+}
